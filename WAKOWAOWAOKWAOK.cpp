@@ -23,4 +23,4 @@ int main (){
 	cin>>YearToDisplay;
 } while (EarlyPopulation<2 || YearToDisplay<1);
 	
-
+// lanjut hanssen
